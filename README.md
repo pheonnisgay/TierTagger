@@ -4,6 +4,7 @@ a TierTagger plugin
 errors: 
 the proxy/firewall might be misconfigured so that the api cannot open a connection
 
+please report any further bugs, thanks 
 
 requirements: https://github.com/NEZNAMY/TAB
 
