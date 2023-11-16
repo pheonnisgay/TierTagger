@@ -1,0 +1,6 @@
+name: TierTagger
+version: '${project.version}'
+main: de.cooltechno.tiertagger.TierTagger
+api-version: '1.19'
+authors: [Cooltecno aka ME_IS_RENNEN]
+description: see tiers from other people
