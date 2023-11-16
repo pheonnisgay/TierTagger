@@ -16,3 +16,5 @@ Tasks in progress:
 *adding options to change the color in the config | 0%
 
 *adding option to change the tier that gets displayed(Vanilla,pot,nethpot...) | 0%
+
+*removing the requiered plugin | 0%
